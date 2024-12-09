@@ -1,0 +1,7 @@
+transformers
+datasets
+tqdm
+requests
+openai 
+argparse
+torch
